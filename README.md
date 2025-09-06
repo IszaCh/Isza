@@ -1,1 +1,2 @@
-![Cool animation](assets/your-animation.gif)
+![Cool animation](assets/animation.gif)
+
